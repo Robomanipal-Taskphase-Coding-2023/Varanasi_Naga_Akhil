@@ -41,6 +41,7 @@ Git Concepts
 Installing Git
 
 To start using Git, you need to install Git on your local machine. Visit the official Git website and follow the installation instructions for your operating system.
+
 Creating a GitHub Account
 Sign up for a free GitHub account on the GitHub website. Provide the required details and verify your email address to gain access to the full range of features.
 Setting up a Local Repository
