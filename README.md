@@ -39,6 +39,7 @@ Git Concepts
 ● Remote: A remote is a repository hosted on a server. It is commonplace for teams to collaborate and share code.
 
 Installing Git
+
 To start using Git, you need to install Git on your local machine. Visit the official Git website and follow the installation instructions for your operating system.
 Creating a GitHub Account
 Sign up for a free GitHub account on the GitHub website. Provide the required details and verify your email address to gain access to the full range of features.
@@ -57,6 +58,7 @@ git branch: List, create, or delete branches
 git merge: Combine changes from one branch into another
 
 These basic Git commands help you initialize a repository, track, and stage files, and commit changes, ensuring proper version control throughout your development process.
+
 Collaborating with Git and GitHub
 
 By utilizing Git and GitHub, developers can collaborate seamlessly on projects, regardless of geographic location. With Git, multiple developers can work on the same codebase simultaneously, while GitHub offers features like pull requests and code reviews, ensuring smooth code integration and facilitating effective teamwork.
