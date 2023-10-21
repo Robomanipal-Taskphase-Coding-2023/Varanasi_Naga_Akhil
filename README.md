@@ -48,14 +48,23 @@ Setting up a Local Repository
 Once Git is installed, create a new directory on your local machine to hold your project files. Initialize a Git repository in that directory using the command-line interface (CLI).
 
 Basic Git Commands
+
 Command	Description		
+
 git init	Initializes a new Git repository in the current directory		
+
 git add [file]	Tracks changes made to a specific file or files		
+
 git commit -m "[message]"	Commits changes to the repository with a descriptive message		
+
 git clone: Create a local copy of a remote repository
+
 git push: Send your commits to a remote repository
+
 git pull: Fetch and merge changes from a remote repository
+
 git branch: List, create, or delete branches
+
 git merge: Combine changes from one branch into another
 
 These basic Git commands help you initialize a repository, track, and stage files, and commit changes, ensuring proper version control throughout your development process.
