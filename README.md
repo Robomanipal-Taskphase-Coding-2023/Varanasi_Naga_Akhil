@@ -24,6 +24,19 @@ Code Review and Management
 With GitHub's pull request feature, developers can easily review code changes, leave comments, and suggest improvements. It promotes higher code quality and knowledge sharing within the team.
 
 Getting Started with Git and GitHub
+Git Concepts
+
+● Repository: A Git repository is a directory where your project is stored. It contains all the project files and the history of changes. A repository can hold any file type like HTML, CSS, JavaScript, Documents, Data, Images, etc.
+
+● Commit: A commit is a snapshot of the project at a particular point in time. It represents a set of changes made to the code. Commits are identified by a unique hash and typically come with a commit message explaining the changes.
+
+● Branch: A branch is a separate line of development within a repository. One can create branches to work on bug fixes without affecting the main codebase.
+
+● Merge: Merging is the process of combining the changes from one branch into another. For example, one can merge changes from a feature branch into the main branch when the feature is complete.
+
+● Pull and Push: These are Git actions for syncing your local repository with a remote repository (like on GitHub). One pulls changes from the remote to the local repository and pushes local changes back to the remote repository.
+
+● Remote: A remote is a repository hosted on a server. It is commonplace for teams to collaborate and share code.
 
 Installing Git
 To start using Git, you need to install Git on your local machine. Visit the official Git website and follow the installation instructions for your operating system.
@@ -37,6 +50,11 @@ Command	Description
 git init	Initializes a new Git repository in the current directory		
 git add [file]	Tracks changes made to a specific file or files		
 git commit -m "[message]"	Commits changes to the repository with a descriptive message		
+git clone: Create a local copy of a remote repository
+git push: Send your commits to a remote repository
+git pull: Fetch and merge changes from a remote repository
+git branch: List, create, or delete branches
+git merge: Combine changes from one branch into another
 
 These basic Git commands help you initialize a repository, track, and stage files, and commit changes, ensuring proper version control throughout your development process.
 Collaborating with Git and GitHub
