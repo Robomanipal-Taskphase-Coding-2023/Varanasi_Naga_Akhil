@@ -2,13 +2,10 @@ Report on Git and GitHub
 
 This report provides a comprehensive overview of Git and GitHub, highlighting their importance in modern software development. It explores the benefits of version control and collaboration, along with the process of getting started with Git and GitHub. The report also covers basic Git commands and the significance of using these tools in software development projects.
 
-The Purpose of the Report
-This section aims to outline the purpose of this report on Git and GitHub. It seeks to inform readers about the significance of utilizing these tools for successful software development projects. By understanding the benefits and functionalities of Git and GitHub, individuals can enhance their coding practices and increase collaboration within their teams.
-
 Overview of Git and GitHub
 
 Git
-Git is a distributed version control system that allows developers to track the changes made to their codebase over time. It provides a seamless way to manage and merge code from multiple contributors. Git is a free and open-source distributed version control system that's responsible for everything GitHub related that happens locally on your computer.
+Git is a distributed version control system that allows developers to track the changes made to their codebase over time. It provides a seamless way to manage and merge code from multiple contributors. Git is a free and open-source distributed version control system that's responsible for everything GitHub-related that happens locally on your computer.
 
 GitHub
 GitHub is a web-based platform built on top of Git. It serves as a central repository for developers to collaborate, share, and host their projects. GitHub offers additional features, such as issue tracking and code review functionality.
