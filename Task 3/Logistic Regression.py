@@ -35,12 +35,8 @@ lr.fit(x_train,y_train)
 predictions = lr.predict(x_test)
 print(confusion_matrix(y_test, predictions))
 print(classification_report(y_test, predictions))
-a=predictions[-1]
-if a>=0.5:
-    b='Yes'
-else:
-    b='No'
-print('will it Rain tomorrow:',b)
+
+print('will it Rain tomorrow:',predictions)
 print('The accuracy of the model is:',accuracy_score(y_test, predictions))
 
 
