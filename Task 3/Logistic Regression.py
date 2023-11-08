@@ -41,7 +41,7 @@ if a>=0.5:
     b='Yes'
 else:
     b='No'
-print('will it Rain tomorrow is:',b)
+print('will it Rain tomorrow:',b)
 print('The accuracy of the model is:',accuracy_score(y_test, predictions))
 
 
