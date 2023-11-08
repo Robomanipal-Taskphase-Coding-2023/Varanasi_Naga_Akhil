@@ -11,7 +11,6 @@ data.head()
 
 data = data.dropna(axis = 0)
 data.shape
-
 data.columns
 
 from sklearn.preprocessing import LabelEncoder
