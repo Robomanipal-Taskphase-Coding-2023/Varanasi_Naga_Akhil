@@ -54,7 +54,6 @@ try:
     plt.title("Actual vs. Predicted TOTCHG")
     plt.legend()
     plt.show()
-    #plt.xlim(data['AGE'].min(), data['AGE'].max())
 except LinAlgError:
     print("Singular matrix - cannot compute linear regression.")
 
