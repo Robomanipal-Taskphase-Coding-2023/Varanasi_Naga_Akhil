@@ -1,0 +1,4 @@
+geometry_msgs/Pose camera1_pose
+geometry_msgs/Pose camera2_pose
+geometry_msgs/Vector3 imu_linear_acceleration
+geometry_msgs/Vector3 imu_angular_velocity
